@@ -9,3 +9,21 @@
     background-color: lightblue;
   }
 }
+
+#navbar {
+  background-color: brown;
+  color: antiquewhite;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 1.5rem;
+}
+
+#welcome-section {
+  margin: top 10rem;
+}
+
+p {
+  font-size: larger;
+}
